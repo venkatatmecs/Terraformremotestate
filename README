@@ -1,0 +1,1 @@
+created VPC with s3 backend for terraform remote state file and pulled the subent id and  vpc id from remote state file in ec2 project.
